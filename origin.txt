@@ -1,0 +1,228 @@
+Uri: https://schrader.co/
+File Name: c:\Downloaded Web Sites\schrader.co\index.htm
+Content Type: text/html
+
+Uri: https://schrader.co/css/bootstrap.min.css
+File Name: c:\Downloaded Web Sites\schrader.co\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://schrader.co/css/style.css
+File Name: c:\Downloaded Web Sites\schrader.co\css\style.css
+Content Type: text/css
+
+Uri: https://schrader.co/css/font-awesome.min.css
+File Name: c:\Downloaded Web Sites\schrader.co\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://schrader.co/favicon-32x32.png
+File Name: c:\Downloaded Web Sites\schrader.co\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://schrader.co/favicon-16x16.png
+File Name: c:\Downloaded Web Sites\schrader.co\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://schrader.co/website-design.php
+File Name: c:\Downloaded Web Sites\schrader.co\website-design.html
+Content Type: text/html
+
+Uri: https://schrader.co/google-my-business-optimization.php
+File Name: c:\Downloaded Web Sites\schrader.co\google-my-business-optimization.html
+Content Type: text/html
+
+Uri: https://schrader.co/search-engine-optimization.php
+File Name: c:\Downloaded Web Sites\schrader.co\search-engine-optimization.html
+Content Type: text/html
+
+Uri: https://schrader.co/lead-generation.php
+File Name: c:\Downloaded Web Sites\schrader.co\lead-generation.html
+Content Type: text/html
+
+Uri: https://schrader.co/video-production.php
+File Name: c:\Downloaded Web Sites\schrader.co\video-production.html
+Content Type: text/html
+
+Uri: https://schrader.co/social-media-marketing.php
+File Name: c:\Downloaded Web Sites\schrader.co\social-media-marketing.html
+Content Type: text/html
+
+Uri: https://schrader.co/ppc-ad-management.php
+File Name: c:\Downloaded Web Sites\schrader.co\ppc-ad-management.html
+Content Type: text/html
+
+Uri: https://schrader.co/reputation-management.php
+File Name: c:\Downloaded Web Sites\schrader.co\reputation-management.html
+Content Type: text/html
+
+Uri: https://schrader.co/about.php
+File Name: c:\Downloaded Web Sites\schrader.co\about.html
+Content Type: text/html
+
+Uri: https://schrader.co/client-reviews.php
+File Name: c:\Downloaded Web Sites\schrader.co\client-reviews.html
+Content Type: text/html
+
+Uri: https://schrader.co/career-opportunities.php
+File Name: c:\Downloaded Web Sites\schrader.co\career-opportunities.html
+Content Type: text/html
+
+Uri: https://schrader.co/support.php
+File Name: c:\Downloaded Web Sites\schrader.co\support.html
+Content Type: text/html
+
+Uri: https://schrader.co/contact.php
+File Name: c:\Downloaded Web Sites\schrader.co\contact.html
+Content Type: text/html
+
+Uri: https://schrader.co/web-site-audit.php
+File Name: c:\Downloaded Web Sites\schrader.co\web-site-audit.html
+Content Type: text/html
+
+Uri: https://schrader.co/book-strategy-call.php
+File Name: c:\Downloaded Web Sites\schrader.co\book-strategy-call.html
+Content Type: text/html
+
+Uri: https://schrader.co/frequently-asked-questions.php
+File Name: c:\Downloaded Web Sites\schrader.co\frequently-asked-questions.html
+Content Type: text/html
+
+Uri: https://schrader.co/sitemap.php
+File Name: c:\Downloaded Web Sites\schrader.co\sitemap.html
+Content Type: text/html
+
+Uri: https://schrader.co/why-work-with-schrader.php
+File Name: c:\Downloaded Web Sites\schrader.co\why-work-with-schrader.html
+Content Type: text/html
+
+Uri: https://schrader.co/terms-of-use.php
+File Name: c:\Downloaded Web Sites\schrader.co\terms-of-use.html
+Content Type: text/html
+
+Uri: https://schrader.co/privacy-policy.php
+File Name: c:\Downloaded Web Sites\schrader.co\privacy-policy.html
+Content Type: text/html
+
+Uri: https://schrader.co/js/jquery.min.js
+File Name: c:\Downloaded Web Sites\schrader.co\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://schrader.co/img/logo.png
+File Name: c:\Downloaded Web Sites\schrader.co\img\logo.png
+Content Type: image/png
+
+Uri: https://schrader.co/js/script.js
+File Name: c:\Downloaded Web Sites\schrader.co\js\script.js
+Content Type: application/javascript
+
+Uri: https://schrader.co/js/new.js
+File Name: c:\Downloaded Web Sites\schrader.co\js\new.js
+Content Type: application/javascript
+
+Uri: https://schrader.co/js/jquery.fullpage.min.js
+File Name: c:\Downloaded Web Sites\schrader.co\js\jquery.fullpage.min.js
+Content Type: application/javascript
+
+Uri: https://schrader.co/img/bucket-comment-top-black.png
+File Name: c:\Downloaded Web Sites\schrader.co\img\bucket-comment-top-black.png
+Content Type: image/png
+
+Uri: https://schrader.co/img/home-banner.jpg
+File Name: c:\Downloaded Web Sites\schrader.co\img\home-banner.jpg
+Content Type: image/jpeg
+
+Uri: https://schrader.co/img/home-banner-phone_p@50.webp
+File Name: c:\Downloaded Web Sites\schrader.co\img\home-banner-phone_p@50.webp
+Content Type: image/webp
+
+Uri: https://schrader.co/img/home-banner-phone_p@50.jpg
+File Name: c:\Downloaded Web Sites\schrader.co\img\home-banner-phone_p@50.jpg
+Content Type: image/jpeg
+
+Uri: https://schrader.co/img/home-web.jpg
+File Name: c:\Downloaded Web Sites\schrader.co\img\home-web.jpg
+Content Type: image/jpeg
+
+Uri: https://schrader.co/img/home-web-phone_p@50.webp
+File Name: c:\Downloaded Web Sites\schrader.co\img\home-web-phone_p@50.webp
+Content Type: image/webp
+
+Uri: https://schrader.co/img/home-web-phone_p@50.jpg
+File Name: c:\Downloaded Web Sites\schrader.co\img\home-web-phone_p@50.jpg
+Content Type: image/jpeg
+
+Uri: https://schrader.co/img/home-seo.webp
+File Name: c:\Downloaded Web Sites\schrader.co\img\home-seo.webp
+Content Type: image/webp
+
+Uri: https://schrader.co/img/home-seo.jpg
+File Name: c:\Downloaded Web Sites\schrader.co\img\home-seo.jpg
+Content Type: image/jpeg
+
+Uri: https://schrader.co/img/home-seo-phone_p@50.webp
+File Name: c:\Downloaded Web Sites\schrader.co\img\home-seo-phone_p@50.webp
+Content Type: image/webp
+
+Uri: https://schrader.co/img/home-seo-phone_p@50.jpg
+File Name: c:\Downloaded Web Sites\schrader.co\img\home-seo-phone_p@50.jpg
+Content Type: image/jpeg
+
+Uri: https://schrader.co/img/home-social.webp
+File Name: c:\Downloaded Web Sites\schrader.co\img\home-social.webp
+Content Type: image/webp
+
+Uri: https://schrader.co/img/home-social.jpg
+File Name: c:\Downloaded Web Sites\schrader.co\img\home-social.jpg
+Content Type: image/jpeg
+
+Uri: https://schrader.co/img/home-social-phone_p@50.webp
+File Name: c:\Downloaded Web Sites\schrader.co\img\home-social-phone_p@50.webp
+Content Type: image/webp
+
+Uri: https://schrader.co/img/home-social-phone_p@50.jpg
+File Name: c:\Downloaded Web Sites\schrader.co\img\home-social-phone_p@50.jpg
+Content Type: image/jpeg
+
+Uri: https://schrader.co/img/home-contact.webp
+File Name: c:\Downloaded Web Sites\schrader.co\img\home-contact.webp
+Content Type: image/webp
+
+Uri: https://schrader.co/img/home-contact.jpg
+File Name: c:\Downloaded Web Sites\schrader.co\img\home-contact.jpg
+Content Type: image/jpeg
+
+Uri: https://schrader.co/img/home-contact-phone_p@50.webp
+File Name: c:\Downloaded Web Sites\schrader.co\img\home-contact-phone_p@50.webp
+Content Type: image/webp
+
+Uri: https://schrader.co/img/home-contact-phone_p@50.jpg
+File Name: c:\Downloaded Web Sites\schrader.co\img\home-contact-phone_p@50.jpg
+Content Type: image/jpeg
+
+Uri: https://schrader.co/css/fonts/fontawesome-webfont3e6e.eot?v=4.7.0
+File Name: c:\Downloaded Web Sites\schrader.co\css\fonts\fontawesome-webfont3e6e.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://schrader.co/css/fonts/fontawesome-webfontd41d.eot?
+File Name: c:\Downloaded Web Sites\schrader.co\css\fonts\fontawesome-webfontd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://schrader.co/css/fonts/fontawesome-webfont3e6e.woff2?v=4.7.0
+File Name: c:\Downloaded Web Sites\schrader.co\css\fonts\fontawesome-webfont3e6e.woff2
+Content Type: font/woff2
+
+Uri: https://schrader.co/css/fonts/fontawesome-webfont3e6e.woff?v=4.7.0
+File Name: c:\Downloaded Web Sites\schrader.co\css\fonts\fontawesome-webfont3e6e.woff
+Content Type: font/woff
+
+Uri: https://schrader.co/css/fonts/fontawesome-webfont3e6e.ttf?v=4.7.0
+File Name: c:\Downloaded Web Sites\schrader.co\css\fonts\fontawesome-webfont3e6e.ttf
+Content Type: font/ttf
+
+Uri: https://schrader.co/css/fonts/fontawesome-webfont3e6e.svg?v=4.7.0
+File Name: c:\Downloaded Web Sites\schrader.co\css\fonts\fontawesome-webfont3e6e.svg
+Content Type: image/svg+xml
+
+Uri: https://schrader.co/img/mappack.png
+File Name: c:\Downloaded Web Sites\schrader.co\img\mappack.png
+Content Type: image/png
+
