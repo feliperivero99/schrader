@@ -4893,7 +4893,7 @@ html.no-webp #sectionHomeSeo .fp-bg {
 @media(max-width:767px) {
   html #sectionHomeSeo .fp-bg {
       background-position: bottom center;
-	  background-image: url(../img/home-seo-phone_p@50.webp)
+	  background-image: url(../img/home-seo-phone_p@50.webp);
   }
   html.webp #sectionHomeSeo .fp-bg {
 
