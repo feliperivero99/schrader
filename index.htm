@@ -55,7 +55,7 @@
   
   </head>
   
-  <body class="home fullpage-template" style="overflow:auto;" id="home">
+  <body class="home fullpage-template  rect" style="overflow:auto;" id="home">
 	<a class="sr-only sr-only-focusable" href="#content">Skip to main content</a>
 		<div id='pageWrap'>
 		
@@ -608,6 +608,10 @@
 		
 		
 		</div>
+		
+	<script src="js\withinviewport.js"></script>
+
+<script src="js\jquery.withinviewport.js"></script>	
 
 
 		
@@ -692,8 +696,170 @@ $('#nav0').click(function(){
  });
  
  
+ function isOnScreen(elem) {
+	// if the element doesn't exist, abort
+	if( elem.length == 0 ) {
+		return;
+	}
+	var $window = jQuery(window)
+	var viewport_top = $window.scrollTop()
+	var viewport_height = $window.height()
+	var viewport_bottom = viewport_top + viewport_height
+	var $elem = jQuery(elem)
+	var top = $elem.offset().top
+	var height = $elem.height()
+	var bottom = top + height
+
+	return (top >= viewport_top && top < viewport_bottom) ||
+	(bottom > viewport_top && bottom <= viewport_bottom) ||
+	(height > viewport_height && top <= viewport_top && bottom >= viewport_bottom)
+}
+ 
+ 
+ $(function() {
+	$('.rect').on('wheel', function(event) {
+        if (event.originalEvent.wheelDelta > 0 || event.originalEvent.detail < 0) {
+			
+		if( isOnScreen( jQuery( '#sectionHomeBanner' ))){
+				
+			}	
+			if( isOnScreen( jQuery( '#sectionHomeWeb' ))){
+				var offset = $('#sectionHomeBanner').offset();
+				offset.left -= 20;
+				offset.top -= 20;
+				$('html, body').animate({
+					scrollTop: offset.top,
+					scrollLeft: offset.left
+				});
+				return false;
+			}
+
+			if( isOnScreen( jQuery( '#sectionHomeSeo' ))){
+			
+				var offset = $('#sectionHomeWeb').offset();
+				offset.left -= 20;
+				offset.top -= 20;
+				$('html, body').animate({
+					scrollTop: offset.top,
+					scrollLeft: offset.left
+				});
+				return false;
+			}	
+			
+			
+			if( isOnScreen( jQuery( '#sectionHomeSocial' ))){
+				var offset = $('#sectionHomeSeo').offset();
+				offset.left -= 20;
+				offset.top -= 20;
+				$('html, body').animate({
+					scrollTop: offset.top,
+					scrollLeft: offset.left
+				});
+				return false;
+			}
+
+			if( isOnScreen( jQuery( '#sectionHomeContact' ))){
+				var offset = $('#sectionHomeSocial').offset();
+				offset.left -= 20;
+				offset.top -= 20;
+				$('html, body').animate({
+					scrollTop: offset.top,
+					scrollLeft: offset.left
+				});
+				return false;
+			}	
+
+			if( isOnScreen( jQuery( '#sectionFooter' ))){
+				var offset = $('#sectionHomeContact').offset();
+				offset.left -= 20;
+				offset.top -= 20;
+				$('html, body').animate({
+					scrollTop: offset.top,
+					scrollLeft: offset.left
+				});
+				return false;
+				
+			}
+						
+			
+			
+        }else {
+		
+			
+		if( isOnScreen( jQuery( '#sectionHomeBanner' ))){
+				var offset = $('#sectionHomeWeb').offset();
+				offset.left -= 20;
+				offset.top -= 20;
+				$('html, body').animate({
+					scrollTop: offset.top,
+					scrollLeft: offset.left
+				});
+				
+				return false;
+			}	
+			if( isOnScreen( jQuery( '#sectionHomeWeb' ))){
+				var offset = $('#sectionHomeSeo').offset();
+				offset.left -= 20;
+				offset.top -= 20;
+				$('html, body').animate({
+					scrollTop: offset.top,
+					scrollLeft: offset.left
+				});
+				
+				return false;
+				
+			}
+
+			if( isOnScreen( jQuery( '#sectionHomeSeo' ))){
+				var offset = $('#sectionHomeSocial').offset();
+				offset.left -= 20;
+				offset.top -= 20;
+				$('html, body').animate({
+					scrollTop: offset.top,
+					scrollLeft: offset.left
+				});
+				
+				return false;
+			}
+
+			if( isOnScreen( jQuery( '#sectionHomeSocial' ))){
+			var offset = $('#sectionHomeContact').offset();
+				offset.left -= 20;
+				offset.top -= 20;
+				$('html, body').animate({
+					scrollTop: offset.top,
+					scrollLeft: offset.left
+				});
+				
+				return false;
+				
+			}
+
+			if( isOnScreen( jQuery( '#sectionHomeContact' ))){
+				var offset = $('#sectionFooter').offset();
+				offset.left -= 20;
+				offset.top -= 20;
+				$('html, body').animate({
+					scrollTop: offset.top,
+					scrollLeft: offset.left
+				});
+				return false;
+			}	
+
+
+			
+		}
+		$(".event-state-mousewheel").stop(true, false).fadeIn(250).fadeOut(250);
+	});
+});
+ 
  
  </script>
+ 
+ 
+ 
+ 
+ 
  
   </body>
 </html>
