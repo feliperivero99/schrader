@@ -844,11 +844,14 @@ $('#nav0').click(function(){
 				
 				return false;
 			}
+			
+			
+			
 
 			if( isOnScreen( jQuery( '#sectionHomeSocial' ))){
 			var offset = $('#sectionHomeContact').offset();
-				offset.left-= 0;
-				offset.top-= 0;
+				offset.left+= 35;
+				offset.top+= 35;
 				$('html, body').animate({
 					scrollTop: offset.top,
 					scrollLeft: offset.left
@@ -857,6 +860,8 @@ $('#nav0').click(function(){
 				return false;
 				
 			}
+			
+			
 
 			if( isOnScreen( jQuery( '#sectionHomeContact' ))){
 				var offset = $('#sectionFooter').offset();
