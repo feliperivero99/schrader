@@ -434,7 +434,7 @@
         </div>
   
   
-        <div class="section slide-dark content-align-top-xs content-align-top-sm content-align-top-md footer-container" id="sectionFooter">
+        <div class="section slide-dark content-align-top-xs content-align-top-sm content-align-top-md footer-container" id="sectionFooter" >
           
   
   
@@ -870,8 +870,8 @@ $('#nav0').click(function(){
 
 			if( isOnScreen( jQuery( '#sectionHomeContact' ))){
 				var offset = $('#social-media').offset();
-				offset.left-= 10;
-				offset.top-= 10;
+				offset.left-= 0;
+				offset.top-= 0;
 				$('html, body').animate({
 					scrollTop: offset.top,
 					scrollLeft: offset.left
