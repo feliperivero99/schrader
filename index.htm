@@ -870,8 +870,8 @@ $('#nav0').click(function(){
 
 			if( isOnScreen( jQuery( '#sectionHomeContact' ))){
 				var offset = $('#social-media').offset();
-				offset.left-= 0;
-				offset.top-= 0;
+				offset.left += 50;
+				offset.top += 50;
 				$('html, body').animate({
 					scrollTop: offset.top,
 					scrollLeft: offset.left
